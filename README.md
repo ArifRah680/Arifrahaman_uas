@@ -1,3 +1,9 @@
+nama kelompok : 
+1. Arif Rahman
+2. Kusuma Masruri
+3. Fikri Zailani
+4. Monika Lowenski
+   
 # UAS-API-PERPUSTAKAAN
 Script PHP digunakan untuk membuat aplikasi manajemen peminjaman buku dengan menggunakan HTML. Bahasa yang digunakan adalah PHP, dengan beberapa library dan fungsi bawaan PHP seperti mysqli untuk interaksi dengan database MySQL.
 
